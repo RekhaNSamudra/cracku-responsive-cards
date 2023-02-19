@@ -1,0 +1,23 @@
+.card {
+  width: 400px;
+  height: 380px;
+  border-radius: 5%;
+  border: 1px solid rgb(148, 145, 145);
+  overflow: hidden;
+}
+
+.heading {
+  height: 20%;
+  background-color: rgb(57, 161, 247);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  position: relative;
+  z-index: 1;
+}
+
+.heading p {
+  margin-left: 15%;
+  margin-bottom: 2%;
+}
