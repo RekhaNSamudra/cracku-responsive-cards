@@ -1,7 +1,8 @@
 Dependencies:
 
-1: React bootsrap -> commands to install -> npm install react-bootstrap bootstrap
-2: React Icons ->  commands to install -> npm install react-icons --save
+1) React bootsrap -> commands to install -> npm install react-bootstrap bootstrap
+
+2) React Icons ->  commands to install -> npm install react-icons --save
 
 
 
