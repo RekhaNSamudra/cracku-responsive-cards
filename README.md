@@ -1,3 +1,10 @@
+Dependencies:
+
+1: React bootsrap -> commands to install -> npm install react-bootstrap bootstrap
+2: React Icons ->  commands to install -> npm install react-icons --save
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
